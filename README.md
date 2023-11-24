@@ -6,7 +6,7 @@ My enthusiasm for technology has led me to explore the world of web development,
 
 
 ## Goals 🌱
-I am currently working on deepening my skills in the field of web-development, especially in front-end development. 
+I am currently working on deepening my skills in the field of web-development. 
 I am open to new learning opportunities and collaborations.
 ##
 
